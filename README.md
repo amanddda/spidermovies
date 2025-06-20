@@ -195,25 +195,6 @@ $banco = 'spidermovies';
 - **Validação de Sessão**: Proteção contra acesso não autorizado
 - **Feedback Visual**: Confirmação de ações do usuário
 
-## 🎨 Design e UX
-
-### Paleta de Cores
-- **Vermelho Marvel**: `#f0141e` (cor principal)
-- **Preto**: `#0a0a0a` (fundo)
-- **Cinza Escuro**: `#1a1a1a` (cards)
-- **Branco**: `#ffffff` (texto)
-
-### Responsividade
-- **Mobile First**: Design otimizado para dispositivos móveis
-- **Breakpoints**: 480px, 768px, 1024px, 1200px
-- **Flexbox/Grid**: Layout moderno e flexível
-
-### Animações
-- **Transições Suaves**: Hover effects e mudanças de estado
-- **Loading States**: Feedback visual durante carregamentos
-- **Micro-interações**: Detalhes que melhoram a experiência
-
-
 ---
 
 **Desenvolvido com ❤️ para os fãs do Universo Marvel** 
