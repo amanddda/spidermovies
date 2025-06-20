@@ -1,4 +1,5 @@
 <?php
+session_start();
 include('../includes/conexao.php');
 
 if (!isset($_SESSION['usuario_id'])) {

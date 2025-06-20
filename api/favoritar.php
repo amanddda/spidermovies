@@ -1,4 +1,5 @@
 <?php
+session_start();
 include('../includes/conexao.php'); // Essa linha importa o arquivo de conexão com o banco de dados. Isso é essencial para que $conn funcione mais abaixo.
 
 if (!isset($_SESSION['usuario_id'])) {
@@ -58,7 +59,7 @@ Se você não quiser que o mesmo filme seja favoritado várias vezes, é bom col
 
 
 
-header("Location: ../index.php");
+header("Location: ../favoritos.php");
 exit;
 
 /*Explicação:
