@@ -192,9 +192,11 @@ $banco = 'spidermovies';
 
 ### Gestão de Favoritos
 - **API RESTful**: Endpoints para adicionar/remover
+
 - **Validação de Sessão**: Proteção contra acesso não autorizado
 - **Feedback Visual**: Confirmação de ações do usuário
 
 ---
 
 **Desenvolvido com ❤️ para os fãs do Universo Marvel** 
+..
