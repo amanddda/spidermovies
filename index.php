@@ -102,21 +102,21 @@ $logado = isset($_SESSION['usuario_id']);
               <img src="assets/img/noticia1.png" alt="Notícia 1">
               <div class="noticia-overlay">
                 <span class="noticia-tag">Novidade!</span>
-                <div class="noticia-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.</div>
+                <div class="noticia-desc">Exclusivo: Sadie Sink Pode Ser a Próxima Gwen Stacy em Homem-Aranha 4!</div>
               </div>
             </div>
             <div class="noticia-card">
               <img src="assets/img/noticia2.png" alt="Notícia 2">
               <div class="noticia-overlay">
                 <span class="noticia-tag">Spoilerzinho</span>
-                <div class="noticia-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.</div>
+                <div class="noticia-desc">Os 10 maiores plot twists do Universo Cinematográfico Marvel</div>
               </div>
             </div>
             <div class="noticia-card">
               <img src="assets/img/noticia3.png" alt="Notícia 3">
               <div class="noticia-overlay">
                 <span class="noticia-tag">Notícia</span>
-                <div class="noticia-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.</div>
+                <div class="noticia-desc">Marvel adia Vingadores: Doomsday e Guerras Secretas - Veja as datas novas</div>
               </div>
             </div>
           </div>
